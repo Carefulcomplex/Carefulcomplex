@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Carefulcomplex
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning pythons 
+- 👋 Hi, I’m @Carefulcomplex (yotam yohanes)
+- 👀 I’m interested in python and I'm an absolute begginer 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on I'm begginer so I don't know how to start
 - 📫 How to reach me ...@yotamyohanes@gmail.com 
 
